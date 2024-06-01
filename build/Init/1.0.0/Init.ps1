@@ -1,0 +1,1 @@
+nuget pack nuspecs/Init/1.0.0/Init.nuspec -OutputDirectory packages/Init/1.0.0

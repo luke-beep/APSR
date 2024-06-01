@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Init</id>
+    <version>1.0.0</version>
+    <authors>Azrael</authors>
+    <description>Init</description>
+    <tags>Init</tags>
+    <readme>docs\README.md</readme>
+  </metadata>
+  <files>
+    <file src="../../../modules/Init/1.0.0/Init.psd1" target="content" />
+    <file src="../../../modules/Init/1.0.0/Init.psm1" target="content" />
+    <file src="../../../modules/Init/1.0.0/README.md" target="docs\" />
+  </files>
+</package>
